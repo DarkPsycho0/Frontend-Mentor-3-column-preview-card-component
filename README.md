@@ -11,7 +11,25 @@ Users should be able to:
 - View the optimal layout depending on their device's screen size
 - See hover states for interactive elements
 
-<h2 align="center">
-    🚧 🏗️ under construction🏗️ 🚧
-</h2>
-<img src="./src/images/Page_Under_Construction.png">
+### Screenshot
+
+### Screenshot 📷
+#### Desktop Screenshot 🖥️
+<img src="./src/images/desktop-screenshot.png">
+
+#### With Hover 
+<img src="./src/images/with-hover.png">
+
+#### Mobile Screenshot 📱
+<img src="./src/images/mobile-screenshot.png">
+
+### link 🔗
+
+- Live Site URL: https://lkiryu.github.io/Frontend-Mentor-3-column-preview-card-component/
+
+### Built with 🛠️
+- HTML5
+- CSS
+---
+### Author 👨‍💻
+ Made by Matheus Antonio
